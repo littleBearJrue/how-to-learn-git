@@ -1,0 +1,15 @@
+﻿feat: 新增功能模块
+fix: 修复bug
+update: 更新功能
+docs: 提交/修改文档
+refactor: 代码重构，未新增任何功能和修复任何bug
+build：改变构建流程，新增依赖库，工具等
+style: 仅仅修改了代码的样式
+test: 提交/修改测试用例
+revert: 对代码的回滚
+
+-------------------------------------
+
+feat: xxxxxx
+  1. aaaaa
+  2. bbbbb
